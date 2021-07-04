@@ -1,0 +1,25 @@
+Default Model
+Accuracy: 72.29 %
+Recall: 53.35 %
+Precision: 49.44 %
+F1: 51.32 %
+
+Optimized Model
+Accuracy: 78.21 %
+Recall: 42.68 %
+Precision: 65.73 %
+F1: 51.76 %
+
+
+Accuracy (mean): 73.16 %
+Accuracy (Standard Deviation): 1.83 %
+
+Recall (mean): 49.17 %
+Recall (Standard Deviation): 4.75 %
+
+Precision (mean): 48.74 %
+Precision (Standard Deviation): 2.70 %
+
+F1 (mean): 47.84 %
+F1 (Standard Deviation): 3.48 %
+

@@ -1,0 +1,10 @@
+Precision: 53.54 %
+
+Recall: 73.78 %
+
+opções optimizadas: ['linear', 0.001] %
+
+Precision _ Optimized: 47.00 %
+
+Recall _ Optimized: 81.10 %
+

@@ -1,0 +1,10 @@
+Precision: 47.29 %
+
+Recall: 69.21 %
+
+opções optimizadas: ['uniform'] %
+
+Precision _ Optimized: 47.29 %
+
+Recall _ Optimized: 69.21 %
+

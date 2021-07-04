@@ -1,0 +1,10 @@
+Precision: 46.98 %
+
+Recall: 52.13 %
+
+opções optimizadas: ['gini', 'random'] %
+
+Precision _ Optimized: 46.90 %
+
+Recall _ Optimized: 53.05 %
+

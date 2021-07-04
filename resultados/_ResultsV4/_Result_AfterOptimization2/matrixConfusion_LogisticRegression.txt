@@ -1,0 +1,10 @@
+Precision: 52.07 %
+
+Recall: 76.52 %
+
+opções optimizadas: ['auto', 'l1', 'saga'] %
+
+Precision _ Optimized: 51.98 %
+
+Recall _ Optimized: 76.22 %
+

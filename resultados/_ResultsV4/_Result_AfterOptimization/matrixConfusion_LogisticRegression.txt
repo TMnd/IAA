@@ -1,0 +1,4 @@
+Recall: 76.52 %
+
+Recall _ Optimized: 76.22 %
+

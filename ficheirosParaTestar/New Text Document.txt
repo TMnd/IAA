@@ -1,0 +1,6 @@
+add - 11
+dec - 12
+div - 13
+eq - 14
+mul - 15
+sub - 16

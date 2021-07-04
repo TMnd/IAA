@@ -1,0 +1,10 @@
+Precision: 54.59 %
+
+Recall: 63.41 %
+
+opções optimizadas: ['relu', 'lbfgs', 0.001] %
+
+Precision _ Optimized: 50.78 %
+
+Recall _ Optimized: 59.76 %
+

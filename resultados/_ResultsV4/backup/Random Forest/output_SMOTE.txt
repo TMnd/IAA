@@ -1,0 +1,19 @@
+
+Accuracy: 76.54 %
+Recall: 61.59 %
+Precision: 56.58 %
+F1: 58.98 %
+
+
+Accuracy (mean): 84.44 %
+Accuracy (Standard Deviation): 4.58 %
+
+Recall (mean): 86.20 %
+Recall (Standard Deviation): 9.48 %
+
+Precision (mean): 83.19 %
+Precision (Standard Deviation): 1.64 %
+
+F1 (mean): 84.50 %
+F1 (Standard Deviation): 5.43 %
+

@@ -1,0 +1,10 @@
+Precision: 55.36 %
+
+Recall: 58.23 %
+
+opções optimizadas: ['log2', 400] %
+
+Precision _ Optimized: 55.71 %
+
+Recall _ Optimized: 60.98 %
+
